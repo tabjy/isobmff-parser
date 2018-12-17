@@ -1,0 +1,23 @@
+{
+  "name": "isobmff-parser",
+  "version": "1.0.0",
+  "description": "provisional name, not yet registered on NPM",
+  "main": "index.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "standard"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tabjy/isobmff-parser.git"
+  },
+  "author": "tabjy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tabjy/isobmff-parser/issues"
+  },
+  "homepage": "https://github.com/tabjy/isobmff-parser#readme",
+  "devDependencies": {
+    "standard": "^12.0.1"
+  }
+}
